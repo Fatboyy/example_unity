@@ -1,1 +1,3 @@
-private repository
+Ad Soyad|Görev
+John Smith|Güvenlik
+Jane Doe|Ev İşi
