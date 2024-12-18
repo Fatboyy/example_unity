@@ -1,4 +1,1 @@
-Ad Soyad|Görev
-John Smith|Güvenlik
-Jane Doe|Ev İşi
-Namık|Sahil Güvenlik
+Merhaba, bu yeni i�eriktir!
