@@ -1,1 +1,4 @@
-Denemeeeeeeeee
+A|B|C
+İlk|1|x
+Orta|2|y
+Son|3|z
