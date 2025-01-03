@@ -4,4 +4,4 @@ DOĞUŞ YILDIRIM(GÖ)|22:30-07:00|Hİ|14:00-22:00|14:00-22:00|07:00-15:00\nmüş
 MERT ZENGİN(GÖ)|Hİ|22:30-07:00|22:30-07:00|22:30-07:00|22:30-07:00|22:30-07:00|22:30-07:00
 AHMET MERSİN(GÖ)|07:00-15:00\nmüşteri girişi|12:00-20:00|Hİ|07:00-15:00\nresepsiyon|07:00-15:00\nresepsiyon|07:00-15:00\nmerkez|14:00-22:00
 BURAK ÖZENÇ(GÖ)|14:00-22:00\nhızlı kasalar|12:00-20:00\nhızlı kasalar|Hİ|09:50-20:00|14:00-22:00\nhızlı kasalar|14:00-22:00\nhızlı kasalar|14:00-22:00\nhızlı kasalar
-BAYRAM BULUT(GÖ)|14:00-22:00|09:50-20:00\nmüşteri girişi|14:00-22:00|Hİ|$raporlu$|$raporlu$|14:00-22:00
+BAYRAM BULUT(GÖ)|14:00-22:00|09:50-20:00\nmüşteri girişi|14:00-22:00|Hİ|$raporlu$|$raporlu$|$raporlu$
